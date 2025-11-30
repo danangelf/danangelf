@@ -1,7 +1,7 @@
 # ME
 
 #### Platform&Tools
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quan666&layout=compact" alt="Top Languages"/>
+
 
 [![](https://img.shields.io/badge/OS-CentOS-262577?style=flat-square&logo=CentOS&logoColor=ffffff)](https://www.centos.org/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
